@@ -1,16 +1,17 @@
-* {
-  font-family: tenor sans
-}
-
 .title {
-  font-size: 15px;
+  font-family: Garamond;
+  font-size: 30px;
   
 }
 
 .author {
+  font-family: georgia;
+  font-size: 22px;
   
 }
 
 .date {
+  font-family: georgia;
+  font-size: 18px;
   
 }
