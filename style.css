@@ -5,6 +5,7 @@
  padding: 10px;
  background-color: #FCF8E8;
  font-size: 15px;
+ text-align: center;
  padding: inharit;}
 .author {
  font-family: tahoma;
@@ -13,6 +14,7 @@
  padding: 10px;
  background-color: #FCF8E8;
  font-size: 10px;
+ text-align: center;
  padding: inharit;}
 .date {
  font-family: tahoma;
@@ -21,4 +23,5 @@
  padding: 10px;
  background-color: #FCF8E8;
  font-size: 8px;
+ text-align: center;
  padding: inharit;}
