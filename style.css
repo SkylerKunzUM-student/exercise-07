@@ -2,7 +2,7 @@ body {
  background-color: #E9ECE6;}
 
 .title {
- font-family: Trebuchet MS;
+ font-family: "Trebuchet MS";
  color: #black; 
  test-align: center;
  padding: 10px;
@@ -12,7 +12,7 @@ body {
  padding: inharit;}
 
 .author {
- font-family: Trebuchet MS;
+ font-family: "Trebuchet MS";
  color: #black; 
  test-align: center;
  padding: 10px;
@@ -22,7 +22,7 @@ body {
  padding: inharit;}
 
 .date {
- font-family: Trebuchet MS;
+ font-family: "Trebuchet MS";
  color: #black; 
  test-align: center;
  padding: 10px;
@@ -32,7 +32,7 @@ body {
  padding: inharit;}
 
 .text {
- font-family: Garamond;
+ font-family: "Garamond";
  color: #black; 
  test-align: left;
  padding: 100px;
