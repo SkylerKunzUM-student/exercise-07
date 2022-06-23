@@ -1,17 +1,14 @@
 body {
   font-family: "Garamond";
   text-align: "center";
-  background-color: blue;
-}
+  background-color: blue;}
 
 .title {
-  boarder: 3px solid black;
+  boarder: 3px solid black;}
 
 h1 {
   font-family: "Garamond";
-  font-size: 30px;
-  
-}
+  font-size: 30px;}
 
 h2 {
   font-family: "georgia";
