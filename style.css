@@ -40,3 +40,13 @@ body {
  font-size: 14px;
  text-align: center;
  padding: inharit;}
+
+.link {
+  font-family: Garamond, Verdana, san-serif;
+ color: #black; 
+ test-align: center;
+ padding: 10px;
+ background-color: #FCF8E8;
+ font-size: 14px;
+ text-align: center;
+ padding: inharit;}
