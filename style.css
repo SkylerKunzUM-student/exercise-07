@@ -10,12 +10,15 @@ body {
 header {
   font-family: "Garamond";
   font-size: 30px;
-  boarder: 1px;}
+  boarder: 1px;
+  background-color: white;}
 
 header {
   font-family: "georgia";
-  font-size: 22px;}
+  font-size: 22px;
+  background-color: white;}
 
 header {
   font-family: "georgia";
-  font-size: 18px;}
+  font-size: 18px;
+  background-color: white;}
