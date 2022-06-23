@@ -34,8 +34,8 @@ body {
 .text {
  font-family: tahoma;
  color: #black; 
- test-align: center;
- padding: 10px;
+ test-align: left;
+ padding: 100px;
  background-color: #AAB8B6;
  font-size: 15px;
  text-align: center;
