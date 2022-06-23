@@ -1,9 +1,9 @@
- body {
-   background-color: silver;
-   color: white;
-   padding: 20px;
-   font-family: Georgia;
-   text-align: center;}
- .title {
-   background-color: white;
-   
+.author {
+ font-family: tahoma;
+ color: #ECB390; 
+ test-align: center;
+ padding: 10px;
+ border: 3px solid #94B49F;
+ background-color: #FCF8E8;
+ font-size: 15px;
+ padding: inharit;}
