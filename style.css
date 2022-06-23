@@ -1,17 +1,20 @@
-.title {
+h1 {
   font-family: "Garamond";
   font-size: 30px;
+  text-align: center:
   
 }
 
-.author {
+h2 {
   font-family: "georgia";
   font-size: 22px;
+  text-align: center:
   
 }
 
-.date {
+h3 {
   font-family: "georgia";
   font-size: 18px;
+  text-align: center:
   
 }
