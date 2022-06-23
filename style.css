@@ -1,20 +1,23 @@
+body {
+  font-family: "Garamond";
+  text-align: center;
+  
+}
+
 h1 {
   font-family: "Garamond";
   font-size: 30px;
-  text-align: center;
   
 }
 
 h2 {
   font-family: "georgia";
   font-size: 22px;
-  text-align: center;
   
 }
 
 h3 {
   font-family: "georgia";
   font-size: 18px;
-  text-align: center;
   
 }
