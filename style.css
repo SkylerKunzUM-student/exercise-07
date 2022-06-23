@@ -6,17 +6,17 @@ body {
 .title {
   boarder: 3px solid black;}
 
-h1 {
+header {
   font-family: "Garamond";
   font-size: 30px;}
 
-h2 {
+header {
   font-family: "georgia";
   font-size: 22px;
   
 }
 
-h3 {
+header {
   font-family: "georgia";
   font-size: 18px;
   
