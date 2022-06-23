@@ -1,24 +1,8 @@
-body {
-  font-family: "Garamond";
-  align: "center";
-  background-color: gray;}
-
-.title {
-  boarder: 3px solid black;
-  color: green;}
-
-header {
-  font-family: "Garamond";
-  font-size: 30px;
-  boarder: 1px;
-  background-color: white;}
-
-header {
-  font-family: "georgia";
-  font-size: 22px;
-  background-color: white;}
-
-header {
-  font-family: "georgia";
-  font-size: 18px;
-  background-color: white;}
+ body {
+   background-color: silver;
+   color: white;
+   padding: 20px;
+   font-family: Georgia;}
+ .title {
+   background-color: white;}
+   
