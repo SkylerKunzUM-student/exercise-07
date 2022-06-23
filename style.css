@@ -2,41 +2,41 @@ body {
  background-color: #E9ECE6;}
 
 .title {
- font-family: tahoma;
+ font-family: Trebuchet MS;
  color: #black; 
  test-align: center;
  padding: 10px;
  background-color: #FCF8E8;
- font-size: 20px;
+ font-size: 30px;
  text-align: center;
  padding: inharit;}
 
 .author {
- font-family: tahoma;
+ font-family: Trebuchet MS;
  color: #black; 
  test-align: center;
  padding: 10px;
  background-color: #FCF8E8;
- font-size: 15px;
+ font-size: 26px;
  text-align: center;
  padding: inharit;}
 
 .date {
- font-family: tahoma;
+ font-family: Trebuchet MS;
  color: #black; 
  test-align: center;
  padding: 10px;
  background-color: #FCF8E8;
- font-size: 10px;
+ font-size: 18px;
  text-align: center;
  padding: inharit;}
 
 .text {
- font-family: tahoma;
+ font-family: Garamond;
  color: #black; 
  test-align: left;
  padding: 100px;
  background-color: #AAB8B6;
- font-size: 15px;
+ font-size: 14px;
  text-align: center;
  padding: inharit;}
